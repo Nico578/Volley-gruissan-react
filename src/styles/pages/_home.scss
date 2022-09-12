@@ -1,0 +1,22 @@
+.home {
+  .first-container {
+    margin-top: -116px;
+    position: relative;
+    
+  }
+
+  .background-image {
+    position: relative;
+    width: 70%;
+    height: 90vh;
+    background: url(../../assets/img/plage.jpg);
+    background-size: cover;
+    border-radius: 0 90% 0 0;
+    z-index: -1;
+  }
+
+  .nationale-container {
+    display: flex;
+    justify-content: right;
+  }
+}

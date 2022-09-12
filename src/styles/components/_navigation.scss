@@ -1,0 +1,15 @@
+.navigation {
+
+  img {
+    vertical-align: middle;
+    width: 100px;
+  }
+
+  .navbar-collapse {
+    font-family: $font-2;
+    margin: auto;
+    display: flex;
+    justify-content: right;
+  }
+  
+}
